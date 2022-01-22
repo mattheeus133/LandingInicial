@@ -10,7 +10,7 @@
 
 body{
     font-size: 100%;
-    background: #f4b41a;
+    background: linear-gradient(243.18deg, #F4B41A 0%, rgba(20, 61, 89, 0.65) 100%);
 }
 
 .cabeçalho{
@@ -66,4 +66,18 @@ body{
 .texto-conteudo2{
     margin: 30px;
     margin-left: 40px;
+}
+
+.imgLinguagem{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    
+    
+
+}
+
+.conhecimento{
+    font-family: 'Black Ops One', cursive;
+    margin-bottom: 30px;
 }
